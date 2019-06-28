@@ -6,16 +6,15 @@
 
 <div align="center">
 
-</br>
+<br />
 <img src"https://github.com/leonInShanghai/TankWar/blob/master/otherPic/QQ%E5%9B%BE%E7%89%8720190628232850.png">
 
-
-</br>
+<br />
 <img src"https://github.com/leonInShanghai/TankWar/blob/master/otherPic/QQ%E5%9B%BE%E7%89%8720190628232906.png">
 
 
-</br>
+<br />
 <img src"https://github.com/leonInShanghai/TankWar/blob/master/otherPic/QQ%E5%9B%BE%E7%89%8720190628232915.png">
 
 
-</div>
+<div/>
