@@ -10,7 +10,7 @@ import java.awt.Toolkit;
 public class Constant {
 
 	/**
-	 * 用户电脑屏幕的宽度
+	 * 用户电脑屏幕的宽度  
 	 */
 	public static final int SCREENWIDTH = Toolkit.getDefaultToolkit().getScreenSize().width;
 	
