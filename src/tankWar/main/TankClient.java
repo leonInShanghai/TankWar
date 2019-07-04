@@ -202,7 +202,7 @@ public class TankClient extends Frame {
 		this.setResizable(false);
 		
 		//设置左上角的icon
-		ImageIcon icon = new ImageIcon("image/bobologo.jpg");
+		ImageIcon icon = new ImageIcon("image/clear_logo.png");
 		Image img = icon.getImage();
 		this.setIconImage(img);
 		
