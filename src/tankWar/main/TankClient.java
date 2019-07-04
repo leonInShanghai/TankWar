@@ -201,7 +201,7 @@ public class TankClient extends Frame {
 		//是否允许用户拖拽改变窗口体的大小 不写为true
 		this.setResizable(false);
 		
-		//设置左上角的icon
+		//设置左上角的icon 自定义
 		ImageIcon icon = new ImageIcon("image/clear_logo.png");
 		Image img = icon.getImage();
 		this.setIconImage(img);
